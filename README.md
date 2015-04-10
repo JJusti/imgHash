@@ -1,0 +1,2 @@
+# imgHash
+Simple imgHash implement
